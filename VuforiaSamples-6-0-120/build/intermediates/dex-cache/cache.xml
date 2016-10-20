@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Git\LocativeArt\VuforiaSamples-6-0-120\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="23c538d068b170e50aaf3c20494bd2ca5562fdcb">
+        <dex dex="D:\Git\LocativeArt\VuforiaSamples-6-0-120\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0f12493ae859db8925bf5432f6eb8e4005caf5f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Git\LocativeArt\VuforiaSamples-6-0-120\app\libs\Vuforia.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
+        <dex dex="D:\Git\LocativeArt\VuforiaSamples-6-0-120\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_c51a82224bdbcd41f98cde6cfff0e6766f102449\classes.dex" />
+    </item>
+    <item
+        jar="D:\Git\LocativeArt\VuforiaSamples-6-0-120\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4d806840feafac0273d411037b53a70c275df470">
+        <dex dex="D:\Git\LocativeArt\VuforiaSamples-6-0-120\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3b0fd7bb8f135eb7d697ba04059c630e4e5d25c2\classes.dex" />
+    </item>
+
+</items>
